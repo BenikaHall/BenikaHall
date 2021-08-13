@@ -1,6 +1,6 @@
 - 👋🏾 Hi, I’m @BenikaHall
-- 👀 I’m interested in GNNs and HPC graph analytics.
-- 🌱 I’m currently working on graph neural networks.
+- 👀 I’m interested in GNNs, HPC graph analytics, recommendation systems.
+- 🌱 I’m currently working on conversational AI, graph neural networks and graph representation learning.
 - 💞️ I’m looking to collaborate on NVIDIA software.
 - 📫 How to reach me.....
 
